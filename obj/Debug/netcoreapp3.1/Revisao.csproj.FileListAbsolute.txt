@@ -1,0 +1,11 @@
+C:\DigitalInnovationOne\csharp-examples\revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\DigitalInnovationOne\csharp-examples\revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\DigitalInnovationOne\csharp-examples\revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\DigitalInnovationOne\csharp-examples\revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\DigitalInnovationOne\csharp-examples\revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\DigitalInnovationOne\csharp-examples\revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\DigitalInnovationOne\csharp-examples\revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\DigitalInnovationOne\csharp-examples\revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\DigitalInnovationOne\csharp-examples\revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\DigitalInnovationOne\csharp-examples\revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\DigitalInnovationOne\csharp-examples\revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
